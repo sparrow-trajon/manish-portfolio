@@ -35,6 +35,9 @@ All the technologies and tools I work with: Java, Redis, Drools, Spring Boot, Po
 
 ## 📄 Résumé
 
+- [View Résumé (Markdown)](./resume.md)
+- [Download Résumé (PDF)](./resume.pdf)
+
 👉 _Coming Soon: Downloadable résumé in PDF format_
 
 ---

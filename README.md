@@ -46,7 +46,8 @@ Core Focus:
 
 ## 📄 Résumé
 
-Coming soon: [resume.pdf](./resume.pdf)
+- [Resume (Markdown)](./resume.md)
+- [Download PDF](./resume.pdf)
 
 ---
 
